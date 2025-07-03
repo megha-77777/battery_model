@@ -1,0 +1,7 @@
+Voltage,Temperature,Capacity,BatteryHealth
+3.7,25,1000,Good
+3.6,30,800,Fair
+3.5,35,600,Poor
+3.8,28,1200,Good
+3.3,40,500,Poor
+3.6,32,700,Fair
